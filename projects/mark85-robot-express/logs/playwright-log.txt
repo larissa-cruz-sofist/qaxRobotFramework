@@ -1,66 +1,916 @@
-{"level":30,"time":"2023-07-18T12:29:09.907Z","pid":22592,"hostname":"sofist-800","msg":"Listening on 62219"}
-{"level":30,"time":"2023-07-18T12:29:09.930Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:09.930Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:09.933Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:09.933Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:09.936Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2023-07-18T12:29:10.735Z","pid":22592,"hostname":"sofist-800","msg":"End of node method newBrowser"}
-{"level":30,"time":"2023-07-18T12:29:10.741Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method newPage"}
-{"level":30,"time":"2023-07-18T12:29:10.741Z","pid":22592,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2023-07-18T12:29:10.764Z","pid":22592,"hostname":"sofist-800","msg":"Changed active context"}
-{"level":30,"time":"2023-07-18T12:29:11.036Z","pid":22592,"hostname":"sofist-800","msg":"Video path: undefined"}
-{"level":30,"time":"2023-07-18T12:29:11.036Z","pid":22592,"hostname":"sofist-800","msg":"Changed active page"}
-{"level":30,"time":"2023-07-18T12:29:11.593Z","pid":22592,"hostname":"sofist-800","msg":"End of node method newPage"}
-{"level":30,"time":"2023-07-18T12:29:12.998Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:12.999Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
-{"level":30,"time":"2023-07-18T12:29:13.070Z","pid":22592,"hostname":"sofist-800","msg":"End of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:13.072Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:13.072Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
-{"level":30,"time":"2023-07-18T12:29:13.094Z","pid":22592,"hostname":"sofist-800","msg":"End of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:13.097Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method click"}
-{"level":30,"time":"2023-07-18T12:29:13.097Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
-{"level":30,"time":"2023-07-18T12:29:13.164Z","pid":22592,"hostname":"sofist-800","msg":"End of node method click"}
-{"level":30,"time":"2023-07-18T12:29:13.169Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2023-07-18T12:29:13.169Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
-{"level":30,"time":"2023-07-18T12:29:13.396Z","pid":22592,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2023-07-18T12:29:13.399Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getText"}
-{"level":30,"time":"2023-07-18T12:29:13.399Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
-{"level":30,"time":"2023-07-18T12:29:13.423Z","pid":22592,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Steve"}
-{"level":30,"time":"2023-07-18T12:29:13.423Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getText"}
-{"level":30,"time":"2023-07-18T12:29:13.428Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method click"}
-{"level":30,"time":"2023-07-18T12:29:13.428Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.button-add in page."}
-{"level":30,"time":"2023-07-18T12:29:13.488Z","pid":22592,"hostname":"sofist-800","msg":"End of node method click"}
-{"level":30,"time":"2023-07-18T12:29:13.496Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:13.496Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=tarefa] in page."}
-{"level":30,"time":"2023-07-18T12:29:13.512Z","pid":22592,"hostname":"sofist-800","msg":"End of node method fillText"}
-{"level":30,"time":"2023-07-18T12:29:13.514Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method click"}
-{"level":30,"time":"2023-07-18T12:29:13.514Z","pid":22592,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2023-07-18T12:29:13.563Z","pid":22592,"hostname":"sofist-800","msg":"End of node method click"}
-{"level":30,"time":"2023-07-18T12:29:16.566Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2023-07-18T12:29:16.567Z","pid":22592,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
-{"level":30,"time":"2023-07-18T12:29:16.816Z","pid":22592,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
-{"level":30,"time":"2023-07-18T12:29:16.822Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.828Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.830Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.831Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.833Z","pid":22592,"hostname":"sofist-800","msg":"Changed active context"}
-{"level":30,"time":"2023-07-18T12:29:16.833Z","pid":22592,"hostname":"sofist-800","msg":"Changing current active page"}
-{"level":30,"time":"2023-07-18T12:29:16.833Z","pid":22592,"hostname":"sofist-800","msg":"Changed active page"}
-{"level":30,"time":"2023-07-18T12:29:16.837Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.842Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.844Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2023-07-18T12:29:16.844Z","pid":22592,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2023-07-18T12:29:16.845Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2023-07-18T12:29:16.846Z","pid":22592,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2023-07-18T12:29:16.848Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.850Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.851Z","pid":22592,"hostname":"sofist-800","msg":"Changed active context"}
-{"level":30,"time":"2023-07-18T12:29:16.851Z","pid":22592,"hostname":"sofist-800","msg":"Changing current active page"}
-{"level":30,"time":"2023-07-18T12:29:16.851Z","pid":22592,"hostname":"sofist-800","msg":"Changed active page"}
-{"level":30,"time":"2023-07-18T12:29:16.854Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method closeContext"}
-{"level":30,"time":"2023-07-18T12:29:16.868Z","pid":22592,"hostname":"sofist-800","msg":"Removed page=dc406558-e02c-4395-a394-afc437654d49 from context=27565f3d-ac53-4184-9397-80b3868cb772 page stack"}
-{"level":30,"time":"2023-07-18T12:29:16.892Z","pid":22592,"hostname":"sofist-800","msg":"End of node method closeContext"}
-{"level":30,"time":"2023-07-18T12:29:16.905Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:16.906Z","pid":22592,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2023-07-18T12:29:17.334Z","pid":22592,"hostname":"sofist-800","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2023-07-18T12:29:17.597Z","pid":22592,"hostname":"sofist-800","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2023-07-19T00:44:13.220Z","pid":240,"hostname":"sofist-800","msg":"Listening on 63496"}
+{"level":30,"time":"2023-07-19T00:44:13.244Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:13.245Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:13.247Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:13.247Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:13.251Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-07-19T00:44:14.078Z","pid":240,"hostname":"sofist-800","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-07-19T00:44:14.084Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:14.084Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:14.103Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:14.419Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:14.419Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:14.934Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:16.054Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:16.055Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:16.126Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:16.128Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:16.128Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:16.147Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:16.149Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:16.150Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:16.231Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:16.235Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:16.235Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:16.462Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:16.464Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:16.465Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:16.491Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Larissa"}
+{"level":30,"time":"2023-07-19T00:44:16.491Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:16.495Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:16.495Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:16.750Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:16.755Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.760Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.762Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.764Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.766Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:16.766Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:16.766Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:16.770Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.774Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.776Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.776Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.777Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.777Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.780Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.781Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.783Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:16.783Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:16.783Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:16.785Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:16.799Z","pid":240,"hostname":"sofist-800","msg":"Removed page=7569584b-f705-4535-b510-d08a85b9ea8f from context=ff781498-105b-4ba7-986e-0525861ccf1c page stack"}
+{"level":30,"time":"2023-07-19T00:44:16.819Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:16.828Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.828Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:16.835Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.835Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:16.846Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:16.846Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:16.856Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:17.172Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:17.172Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:17.773Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:18.109Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:18.110Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:18.166Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:18.168Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:18.168Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:18.187Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:18.192Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:18.192Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:18.262Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:18.265Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:18.265Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:18.493Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:18.495Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:18.495Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:18.517Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=.notice p containing Ocorreu um erro ao fazer login, verifique suas credenciais."}
+{"level":30,"time":"2023-07-19T00:44:18.518Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:18.522Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:18.523Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-2.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:18.798Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:18.802Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.808Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.810Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.813Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.814Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:18.814Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:18.814Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:18.818Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.820Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.824Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.825Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.826Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.826Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.829Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.831Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.832Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:18.832Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:18.832Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:18.835Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:18.847Z","pid":240,"hostname":"sofist-800","msg":"Removed page=738325fd-8fb5-4677-802f-6ba9e2f0276f from context=b90905a8-cb2c-4c65-a72d-14c24f77058e page stack"}
+{"level":30,"time":"2023-07-19T00:44:18.870Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:18.880Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.880Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.941Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.941Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.947Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.947Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:18.952Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.952Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:18.957Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:18.957Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:18.968Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:19.333Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:19.333Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:19.795Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:19.814Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.816Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.817Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.819Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.821Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:19.821Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:19.821Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:19.827Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.829Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.830Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.830Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.831Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.832Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.835Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.840Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.842Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:19.842Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:19.842Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:19.844Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:19.853Z","pid":240,"hostname":"sofist-800","msg":"Removed page=19bfab86-2059-499b-84fd-e2a004a301ef from context=31585739-2b2d-48e4-816a-6d63f0e456c9 page stack"}
+{"level":30,"time":"2023-07-19T00:44:19.884Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:19.893Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.893Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.953Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.953Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.956Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.957Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:19.964Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.964Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:19.968Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:19.968Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:19.981Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:20.272Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:20.272Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:20.820Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:20.984Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:21.081Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:21.091Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:21.092Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:21.118Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:21.123Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:21.123Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:21.146Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:21.146Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:21.148Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.148Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:21.175Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.177Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.177Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:21.196Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.198Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.198Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:21.213Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:21.215Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:21.215Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:21.296Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:21.300Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:21.300Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:21.644Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:21.648Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:21.648Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:21.664Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=.notice p containing Boas vindas ao Mark85, o seu gerenciador de tarefas."}
+{"level":30,"time":"2023-07-19T00:44:21.664Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:21.667Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:21.667Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-3.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:21.960Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:21.964Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.966Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.967Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.970Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.973Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:21.973Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:21.973Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:21.977Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.978Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.980Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:21.980Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:21.981Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:21.981Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:21.983Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.987Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:21.992Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:21.992Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:21.992Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:21.994Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:22.005Z","pid":240,"hostname":"sofist-800","msg":"Removed page=3aaa287f-7b1c-42a0-9558-413de45d1020 from context=fd1ef050-c227-4798-8a01-6d4be27cf00f page stack"}
+{"level":30,"time":"2023-07-19T00:44:22.042Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:22.050Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:22.050Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:22.061Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:22.061Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:22.069Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:22.069Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:22.084Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:22.400Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:22.400Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:22.940Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:23.296Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:23.392Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:23.397Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:23.398Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:23.424Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:23.427Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:23.427Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:23.448Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:23.448Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:23.452Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.452Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:23.477Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.479Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.479Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:23.497Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.499Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.499Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:23.515Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:23.516Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:23.516Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:23.596Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:23.599Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:23.600Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:23.829Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:23.835Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:23.835Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:23.866Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=.notice p containing Oops! Já existe uma conta com o e-mail informado."}
+{"level":30,"time":"2023-07-19T00:44:23.866Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:23.873Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:23.874Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-4.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:24.118Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:24.129Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.132Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.134Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.135Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.139Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:24.139Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:24.139Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:24.142Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.144Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.145Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.146Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.147Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.147Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.152Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.158Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.159Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:24.160Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:24.160Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:24.161Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:24.172Z","pid":240,"hostname":"sofist-800","msg":"Removed page=23bdc6ff-1a06-46e0-9f0f-76f34318b42b from context=10bf37ce-8f14-4ffa-b680-1c283483dade page stack"}
+{"level":30,"time":"2023-07-19T00:44:24.208Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:24.215Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.216Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:24.224Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.228Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:24.236Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:24.236Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:24.250Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:24.567Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:24.568Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:25.107Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:25.112Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:25.193Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:25.197Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.197Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:25.226Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.228Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:25.228Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:25.251Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:25.251Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:25.256Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.256Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:25.278Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.280Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.280Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:25.293Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.295Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.295Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:25.309Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:25.311Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:25.311Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:25.368Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:25.374Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.374Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe seu nome completo in page."}
+{"level":30,"time":"2023-07-19T00:44:25.378Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.381Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.381Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe seu e-email in page."}
+{"level":30,"time":"2023-07-19T00:44:25.386Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.391Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.391Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:25.394Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:25.398Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:25.398Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-5.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:25.633Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:25.643Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.645Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.647Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.649Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.651Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:25.651Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:25.651Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:25.657Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.658Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.660Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.660Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.661Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.661Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.664Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.666Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.668Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:25.668Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:25.668Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:25.674Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:25.683Z","pid":240,"hostname":"sofist-800","msg":"Removed page=0bbfc062-d49d-467a-894d-1249ea8d1d08 from context=f0c2f13f-5812-4d3b-b802-f5a3f47f18c1 page stack"}
+{"level":30,"time":"2023-07-19T00:44:25.720Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:25.731Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.731Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:25.752Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.752Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:25.763Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:25.764Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:25.783Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:26.163Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:26.163Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:26.691Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:26.698Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:26.775Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:26.780Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:26.780Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:26.810Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:26.812Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:26.813Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:26.838Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:26.838Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:26.840Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.841Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:26.863Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.865Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.865Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:26.885Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.890Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.890Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:26.905Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:26.908Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:26.908Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:26.974Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:26.978Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:26.978Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Digite um e-mail válido in page."}
+{"level":30,"time":"2023-07-19T00:44:26.982Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:26.986Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:26.986Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-6.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:27.219Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:27.227Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.229Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.230Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.232Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.233Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:27.233Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:27.233Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:27.240Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.242Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.243Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.243Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.245Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.245Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.247Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.250Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.255Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:27.255Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:27.255Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:27.257Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:27.268Z","pid":240,"hostname":"sofist-800","msg":"Removed page=9c43023b-fbc5-413b-bec0-6fa8f436a52e from context=e720c68b-8a2e-4909-816b-28c44cb9e2ee page stack"}
+{"level":30,"time":"2023-07-19T00:44:27.298Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:27.307Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.307Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:27.317Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.318Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:27.326Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:27.327Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:27.343Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:27.652Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:27.652Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:28.188Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:28.194Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.274Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.278Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.278Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.306Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.309Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.309Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.332Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:28.332Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.337Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.337Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:28.363Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.364Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.364Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:28.388Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.391Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.392Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:28.410Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.412Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.412Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:28.490Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.493Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.493Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:28.497Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.499Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.546Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.550Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.550Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.572Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.575Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.575Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.597Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:28.598Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.600Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.600Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:28.621Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.623Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.623Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:28.639Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.641Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.641Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:28.654Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.657Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.657Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:28.713Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.716Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.716Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:28.724Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.727Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.789Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:28.793Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.794Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.813Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.815Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.815Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:28.845Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:28.845Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:28.847Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.847Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:28.864Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.865Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.865Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:28.881Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.884Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.885Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:28.896Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:28.898Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.898Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:28.958Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:28.961Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.961Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:28.965Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:28.972Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:29.019Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:29.024Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.024Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:29.043Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.046Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:29.046Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:29.073Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:29.073Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:29.075Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.075Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:29.092Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.094Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.094Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:29.110Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.111Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.111Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:29.126Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.128Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:29.128Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:29.174Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:29.177Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.177Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:29.180Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.183Z","pid":240,"hostname":"sofist-800","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:29.230Z","pid":240,"hostname":"sofist-800","msg":"End of node method goTo"}
+{"level":30,"time":"2023-07-19T00:44:29.233Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.233Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:29.254Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.257Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:29.257Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=h1 in page."}
+{"level":30,"time":"2023-07-19T00:44:29.278Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-07-19T00:44:29.278Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:29.280Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.280Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#name in page."}
+{"level":30,"time":"2023-07-19T00:44:29.299Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.304Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.304Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#email in page."}
+{"level":30,"time":"2023-07-19T00:44:29.323Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.325Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.325Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2023-07-19T00:44:29.341Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:29.342Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:29.342Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with id=buttonSignup in page."}
+{"level":30,"time":"2023-07-19T00:44:29.391Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:29.395Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.395Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.alert-error >> text=Informe uma senha com pelo menos 6 digitos in page."}
+{"level":30,"time":"2023-07-19T00:44:29.398Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:29.406Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:29.406Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-7.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:29.641Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:29.647Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.649Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.652Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.655Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.656Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:29.656Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:29.656Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:29.659Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.661Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.662Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.662Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.663Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.663Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.667Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.673Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.675Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:29.675Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:29.675Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:29.677Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:29.691Z","pid":240,"hostname":"sofist-800","msg":"Removed page=475be629-bf58-4c6c-89a1-d339fcdc5d51 from context=f3339f17-20bb-4fb8-b45e-76fc7722cb4f page stack"}
+{"level":30,"time":"2023-07-19T00:44:29.722Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:29.729Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.730Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.808Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.808Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.814Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.814Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:29.819Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.820Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:29.827Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:29.827Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:29.842Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:30.187Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:30.188Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:30.727Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:31.363Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.363Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:31.424Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.426Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.426Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:31.443Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.445Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:31.445Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:31.523Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:31.526Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:31.526Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:31.756Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:31.758Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:31.758Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:31.778Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Steve"}
+{"level":30,"time":"2023-07-19T00:44:31.778Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:31.780Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:31.780Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.button-add in page."}
+{"level":30,"time":"2023-07-19T00:44:31.831Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:31.835Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.835Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=tarefa] in page."}
+{"level":30,"time":"2023-07-19T00:44:31.848Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.854Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:31.854Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:31.864Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:32.876Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:32.876Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:32.911Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:32.914Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:32.914Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:32.927Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:33.929Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:33.930Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:33.941Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:33.944Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:33.944Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:33.955Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:34.958Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:34.958Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:34.969Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:34.971Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:34.971Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2023-07-19T00:44:35.019Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:35.024Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:35.024Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.task-todo >> text=Criar uma nova versão do Ipod in page."}
+{"level":30,"time":"2023-07-19T00:44:35.852Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:35.855Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:35.855Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-8.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:36.071Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:36.075Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.077Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.078Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.080Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.083Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:36.083Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:36.083Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:36.089Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.090Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.092Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.092Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.093Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.093Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.096Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.102Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.104Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:36.104Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:36.104Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:36.106Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:36.116Z","pid":240,"hostname":"sofist-800","msg":"Removed page=97a36893-847e-4306-a6ac-44bc4c2deb17 from context=a2d1f13f-d1de-4cb4-88fd-ad7e007e0371 page stack"}
+{"level":30,"time":"2023-07-19T00:44:36.153Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:36.157Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.157Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:36.166Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.167Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:36.174Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:36.175Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:36.192Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:36.548Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:36.548Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:37.010Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:38.128Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.128Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:38.188Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.190Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.190Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:38.207Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.209Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.209Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:38.293Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.297Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:38.297Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:38.523Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:38.525Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:38.525Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:38.551Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Fulano"}
+{"level":30,"time":"2023-07-19T00:44:38.551Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:38.553Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.553Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.button-add in page."}
+{"level":30,"time":"2023-07-19T00:44:38.595Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.600Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.600Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=tarefa] in page."}
+{"level":30,"time":"2023-07-19T00:44:38.612Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:38.620Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.620Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2023-07-19T00:44:38.670Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:38.673Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:38.673Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:38.886Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:38.889Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:38.889Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:38.906Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=.notice p containing Oops! Tarefa duplicada."}
+{"level":30,"time":"2023-07-19T00:44:38.906Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:38.910Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:38.910Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-9.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:39.169Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:39.175Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.177Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.178Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.181Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.184Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:39.184Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:39.184Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:39.187Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.189Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.190Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.190Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.191Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.192Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.194Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.195Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.198Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:39.198Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:39.198Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:39.203Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:39.214Z","pid":240,"hostname":"sofist-800","msg":"Removed page=80824050-a77d-4fbb-80b2-9f6c20400b2c from context=bec635ed-4361-47b1-9d8e-d5409b010905 page stack"}
+{"level":30,"time":"2023-07-19T00:44:39.248Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:39.252Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.253Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:39.257Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.258Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:39.262Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:39.262Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:39.285Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:39.606Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:39.606Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:40.191Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:40.822Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:40.822Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:40.873Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:40.874Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:40.874Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:40.891Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:40.893Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:40.893Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:40.976Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:40.981Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:40.981Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:41.201Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:41.203Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:41.203Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:41.224Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Carlos"}
+{"level":30,"time":"2023-07-19T00:44:41.224Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:41.227Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:41.227Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.button-add in page."}
+{"level":30,"time":"2023-07-19T00:44:41.278Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:41.283Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:41.283Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=tarefa] in page."}
+{"level":30,"time":"2023-07-19T00:44:41.294Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:41.302Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:41.302Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:41.318Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:42.324Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:42.325Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:42.367Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:42.369Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:42.369Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:42.383Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:43.388Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:43.389Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:43.408Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:43.410Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:43.411Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:43.423Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:44.432Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:44.432Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:44.452Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:44.455Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:44.455Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:44.470Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:45.480Z","pid":240,"hostname":"sofist-800","msg":"Start of node method press"}
+{"level":30,"time":"2023-07-19T00:44:45.480Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[name=tags] in page."}
+{"level":30,"time":"2023-07-19T00:44:45.501Z","pid":240,"hostname":"sofist-800","msg":"End of node method press"}
+{"level":30,"time":"2023-07-19T00:44:45.503Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:45.503Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2023-07-19T00:44:45.570Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:45.574Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:45.574Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:45.577Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:45.582Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:45.582Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.notice p in page."}
+{"level":30,"time":"2023-07-19T00:44:45.592Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=.notice p containing Oops! Limite de tags atingido."}
+{"level":30,"time":"2023-07-19T00:44:45.592Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:45.596Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:45.597Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-10.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:45.830Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:45.837Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.839Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.840Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.842Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.843Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:45.843Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:45.843Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:45.849Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.851Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.852Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.852Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.853Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.853Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.855Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.857Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.859Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:45.859Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:45.859Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:45.861Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:45.875Z","pid":240,"hostname":"sofist-800","msg":"Removed page=c8a3da57-f347-4a4e-a9e8-bb67cb0c5191 from context=5d9c79be-b07c-4e95-aa8a-79c0f80cd55c page stack"}
+{"level":30,"time":"2023-07-19T00:44:45.903Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:45.913Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.913Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.985Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.986Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.990Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.990Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:45.993Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.993Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:45.996Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:45.996Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:46.012Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:46.286Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:46.286Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:46.851Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:47.986Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:47.986Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:48.049Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:48.051Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:48.051Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:48.068Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:48.070Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:48.070Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:48.133Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:48.137Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.137Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:48.367Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.370Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:48.370Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:48.392Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Lucas"}
+{"level":30,"time":"2023-07-19T00:44:48.392Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:48.397Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.397Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with xpath=//strong[text()=\"Criar a IA do ultron\"]/..//button[@class=\"task-remove\"] in page."}
+{"level":30,"time":"2023-07-19T00:44:48.493Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.497Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:48.498Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with xpath=//strong[text()=\"Criar a IA do ultron\"]/..//button[@class=\"task-remove\"] in page."}
+{"level":30,"time":"2023-07-19T00:44:48.541Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:48.546Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.546Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.task-todo >> text=Criar a IA do ultron in page."}
+{"level":30,"time":"2023-07-19T00:44:48.870Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:48.878Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:48.878Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-11.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:49.122Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:49.125Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.131Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.133Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.135Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.136Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:49.136Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:49.136Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:49.139Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.141Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.142Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.142Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.146Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.146Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.150Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.153Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.154Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:49.154Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:49.154Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:49.156Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:49.171Z","pid":240,"hostname":"sofist-800","msg":"Removed page=b5363277-c09e-4331-a850-fc6affa41e27 from context=ce48ced3-9b3b-47a9-a009-deaf73c593ca page stack"}
+{"level":30,"time":"2023-07-19T00:44:49.207Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:49.215Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.215Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.275Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.275Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.278Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.279Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:49.285Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.285Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:49.289Z","pid":240,"hostname":"sofist-800","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:49.289Z","pid":240,"hostname":"sofist-800","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-07-19T00:44:49.304Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:49.599Z","pid":240,"hostname":"sofist-800","msg":"Video path: undefined"}
+{"level":30,"time":"2023-07-19T00:44:49.599Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:50.156Z","pid":240,"hostname":"sofist-800","msg":"End of node method newPage"}
+{"level":30,"time":"2023-07-19T00:44:51.324Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:51.325Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder$=mail] in page."}
+{"level":30,"time":"2023-07-19T00:44:51.385Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:51.387Z","pid":240,"hostname":"sofist-800","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:51.387Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Senha] in page."}
+{"level":30,"time":"2023-07-19T00:44:51.405Z","pid":240,"hostname":"sofist-800","msg":"End of node method fillText"}
+{"level":30,"time":"2023-07-19T00:44:51.407Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:51.407Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2023-07-19T00:44:51.492Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:51.499Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:51.499Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:51.703Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:51.706Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:51.706Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=header .right small in page."}
+{"level":30,"time":"2023-07-19T00:44:51.731Z","pid":240,"hostname":"sofist-800","msg":"Retrieved text for element css=header .right small containing Olá, Marina"}
+{"level":30,"time":"2023-07-19T00:44:51.731Z","pid":240,"hostname":"sofist-800","msg":"End of node method getText"}
+{"level":30,"time":"2023-07-19T00:44:51.734Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:51.735Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with xpath=//strong[text()=\"Criar uma nova IA\"]/..//button[@class=\"item-toggle\"] in page."}
+{"level":30,"time":"2023-07-19T00:44:51.841Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:51.847Z","pid":240,"hostname":"sofist-800","msg":"Start of node method click"}
+{"level":30,"time":"2023-07-19T00:44:51.847Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with xpath=//strong[text()=\"Criar uma nova IA\"]/..//button[@class=\"item-toggle\"] in page."}
+{"level":30,"time":"2023-07-19T00:44:51.872Z","pid":240,"hostname":"sofist-800","msg":"End of node method click"}
+{"level":30,"time":"2023-07-19T00:44:51.877Z","pid":240,"hostname":"sofist-800","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:51.877Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.task-done >> text=Criar uma nova IA in page."}
+{"level":30,"time":"2023-07-19T00:44:52.740Z","pid":240,"hostname":"sofist-800","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-07-19T00:44:52.751Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getStyle"}
+{"level":30,"time":"2023-07-19T00:44:52.752Z","pid":240,"hostname":"sofist-800","msg":"Getting css of element on page"}
+{"level":30,"time":"2023-07-19T00:44:52.752Z","pid":240,"hostname":"sofist-800","msg":"Strict mode is enabled, find Locator with css=.task-done >> text=Criar uma nova IA in page."}
+{"level":30,"time":"2023-07-19T00:44:52.772Z","pid":240,"hostname":"sofist-800","msg":"End of node method getStyle"}
+{"level":30,"time":"2023-07-19T00:44:52.779Z","pid":240,"hostname":"sofist-800","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:52.779Z","pid":240,"hostname":"sofist-800","Take screenshot with options: ":{"path":"C:\\qaxRobotFramework\\projects\\mark85-robot-express\\logs\\browser\\screenshot\\robotframework-browser-screenshot-12.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-07-19T00:44:53.010Z","pid":240,"hostname":"sofist-800","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-07-19T00:44:53.018Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.019Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.021Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.022Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.023Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:53.023Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:53.023Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:53.030Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.032Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.033Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:53.033Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:53.034Z","pid":240,"hostname":"sofist-800","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:53.034Z","pid":240,"hostname":"sofist-800","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-07-19T00:44:53.037Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.040Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.042Z","pid":240,"hostname":"sofist-800","msg":"Changed active context"}
+{"level":30,"time":"2023-07-19T00:44:53.042Z","pid":240,"hostname":"sofist-800","msg":"Changing current active page"}
+{"level":30,"time":"2023-07-19T00:44:53.042Z","pid":240,"hostname":"sofist-800","msg":"Changed active page"}
+{"level":30,"time":"2023-07-19T00:44:53.046Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:53.055Z","pid":240,"hostname":"sofist-800","msg":"Removed page=b6f6b2e9-b0a8-413f-ab0c-95d5fb7a2693 from context=9b6c733d-04b6-4a83-b1b2-8fc7d34fa73b page stack"}
+{"level":30,"time":"2023-07-19T00:44:53.080Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-07-19T00:44:53.088Z","pid":240,"hostname":"sofist-800","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.088Z","pid":240,"hostname":"sofist-800","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-07-19T00:44:53.814Z","pid":240,"hostname":"sofist-800","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-07-19T00:44:53.984Z","pid":240,"hostname":"sofist-800","msg":"End of node method closeAllBrowsers"}
